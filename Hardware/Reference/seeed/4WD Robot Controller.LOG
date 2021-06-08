@@ -1,0 +1,39 @@
+Importer Log Report
+Project : 4WD Robot Controller.PrjPcb
+
+Section : Analyze Document - c:\net\data\arkservice\1265dac4-67a5-40c5-ab5c-ab2de46c44c0\s\e\source file\4WD Robot Controller.sch
+    Analyzing data of c:\net\data\arkservice\1265dac4-67a5-40c5-ab5c-ab2de46c44c0\s\e\source file\4WD Robot Controller.sch
+    Load settings
+    Load layers 122
+    Load schematic
+    Load Libraries 6
+    Load Library "template"
+    Load Packages 9
+    Load Symbols 7
+    Load DeviceSets 6
+    Load Library "Discrete"
+    Load Packages 107
+    Load Symbols 10
+    Load DeviceSets 10
+    Load Library "IC"
+    Load Packages 3
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Library "Power or GND "
+    Load Packages 0
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "IC-dwin"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "Connector"
+    Load Packages 29
+    Load Symbols 6
+    Load DeviceSets 6
+    Load Attributes 0
+    Load Classes 4
+    Load Parts 124
+    Load Sheets 1
+    ERROR: Unhandled type <errors>
+EndSection
