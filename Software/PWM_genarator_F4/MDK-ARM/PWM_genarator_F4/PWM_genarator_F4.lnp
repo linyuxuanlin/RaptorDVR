@@ -1,0 +1,27 @@
+--cpu=Cortex-M4.fp.sp
+"pwm_genarator_f4\startup_stm32f429xx.o"
+"pwm_genarator_f4\main.o"
+"pwm_genarator_f4\gpio.o"
+"pwm_genarator_f4\tim.o"
+"pwm_genarator_f4\stm32f4xx_it.o"
+"pwm_genarator_f4\stm32f4xx_hal_msp.o"
+"pwm_genarator_f4\stm32f4xx_hal_tim.o"
+"pwm_genarator_f4\stm32f4xx_hal_tim_ex.o"
+"pwm_genarator_f4\stm32f4xx_hal_rcc.o"
+"pwm_genarator_f4\stm32f4xx_hal_rcc_ex.o"
+"pwm_genarator_f4\stm32f4xx_hal_flash.o"
+"pwm_genarator_f4\stm32f4xx_hal_flash_ex.o"
+"pwm_genarator_f4\stm32f4xx_hal_flash_ramfunc.o"
+"pwm_genarator_f4\stm32f4xx_hal_gpio.o"
+"pwm_genarator_f4\stm32f4xx_hal_dma_ex.o"
+"pwm_genarator_f4\stm32f4xx_hal_dma.o"
+"pwm_genarator_f4\stm32f4xx_hal_pwr.o"
+"pwm_genarator_f4\stm32f4xx_hal_pwr_ex.o"
+"pwm_genarator_f4\stm32f4xx_hal_cortex.o"
+"pwm_genarator_f4\stm32f4xx_hal.o"
+"pwm_genarator_f4\stm32f4xx_hal_exti.o"
+"pwm_genarator_f4\system_stm32f4xx.o"
+--library_type=microlib --strict --scatter "PWM_genarator_F4\PWM_genarator_F4.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "PWM_genarator_F4.map" -o PWM_genarator_F4\PWM_genarator_F4.axf
